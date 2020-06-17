@@ -1,5 +1,5 @@
 # CertificateScanner
-Java app for scanning for certificates
+Java app for bulk scanning for certificates for provided URLs, IP addresses or IP address ranges
 
 ## Usage
 ```java
