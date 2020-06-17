@@ -43,4 +43,6 @@ A number that represents the number of months validity for a certificate to be c
 
 #### Output file format
 Status (Pass/Fail), IP address, domain name, CN name, expiry date
+
 PASS,10.10.10.1,https://google.com:443,CN=google.com,02-Oct-2021
+PASS,10.10.10.2,https://example.com:9443,CN=example.com,02-Oct-2020
